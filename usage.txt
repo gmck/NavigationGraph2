@@ -196,8 +196,6 @@ androidx.appcompat.app.AlertController$AlertParams:
     public boolean mForceInverseBackground
 androidx.appcompat.app.AlertController$ButtonHandler:
     private static final int MSG_DISMISS_DIALOG
-androidx.appcompat.app.AlertController$RecycleListView:
-    public void <init>(android.content.Context)
 androidx.appcompat.app.AlertController:
     public android.widget.Button getButton(int)
     public void setButtonPanelLayoutHint(int)
@@ -418,7 +416,6 @@ androidx.appcompat.view.menu.ActionMenuItem:
 androidx.appcompat.view.menu.ActionMenuItemView:
     private static final int MAX_ICON_SIZE
     private static final java.lang.String TAG
-    public void <init>(android.content.Context)
 androidx.appcompat.view.menu.BaseMenuPresenter:
     public boolean flagActionItems()
 androidx.appcompat.view.menu.CascadingMenuPopup$HorizPosition
@@ -477,8 +474,6 @@ androidx.appcompat.widget.AbsActionBarView:
     public boolean isOverflowReserved()
     public void postShowOverflowMenu()
     public boolean showOverflowMenu()
-androidx.appcompat.widget.ActionBarContainer:
-    public void <init>(android.content.Context)
 androidx.appcompat.widget.ActionBarContextView:
     public synthetic bridge void animateToVisibility(int)
     public synthetic bridge boolean canShowOverflowMenu()
@@ -493,7 +488,6 @@ androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams:
 androidx.appcompat.widget.ActionBarOverlayLayout:
     private static final int ACTION_BAR_ANIMATE_DELAY
     private static final java.lang.String TAG
-    public void <init>(android.content.Context)
     public boolean hasIcon()
     public boolean hasLogo()
     public void restoreToolbarHierarchyState(android.util.SparseArray)
@@ -524,10 +518,7 @@ androidx.appcompat.widget.ActivityChooserView$4
 androidx.appcompat.widget.ActivityChooserView$5
 androidx.appcompat.widget.ActivityChooserView$ActivityChooserViewAdapter
 androidx.appcompat.widget.ActivityChooserView$Callbacks
-androidx.appcompat.widget.ActivityChooserView$InnerLayout
 androidx.appcompat.widget.ActivityChooserView
-androidx.appcompat.widget.AlertDialogLayout:
-    public void <init>(android.content.Context)
 androidx.appcompat.widget.AppCompatAutoCompleteTextView$InspectionCompanion
 androidx.appcompat.widget.AppCompatAutoCompleteTextView:
     public void <init>(android.content.Context)
@@ -633,8 +624,6 @@ androidx.appcompat.widget.DecorContentParent:
     public abstract void setIcon(android.graphics.drawable.Drawable)
     public abstract void setLogo(int)
     public abstract void setUiOptions(int)
-androidx.appcompat.widget.DialogTitle:
-    public void <init>(android.content.Context)
 androidx.appcompat.widget.DrawableUtils$Api18Impl:
     private void <init>()
 androidx.appcompat.widget.DrawableUtils$Api29Impl:
@@ -644,10 +633,6 @@ androidx.appcompat.widget.DropDownListView:
     public static final int NO_POSITION
     public int lookForSelectablePosition(int,boolean)
 androidx.appcompat.widget.EmojiCompatConfigurationView
-androidx.appcompat.widget.FitWindowsFrameLayout:
-    public void <init>(android.content.Context)
-androidx.appcompat.widget.FitWindowsLinearLayout:
-    public void <init>(android.content.Context)
 androidx.appcompat.widget.LinearLayoutCompat$DividerMode
 androidx.appcompat.widget.LinearLayoutCompat$InspectionCompanion$1
 androidx.appcompat.widget.LinearLayoutCompat$InspectionCompanion$2
@@ -668,7 +653,6 @@ androidx.appcompat.widget.LinearLayoutCompat:
     public static final int SHOW_DIVIDER_NONE
     public static final int VERTICAL
     private static final int VERTICAL_GRAVITY_COUNT
-    public void <init>(android.content.Context)
     public boolean isBaselineAligned()
     public boolean isMeasureWithLargestChildEnabled()
 androidx.appcompat.widget.ListPopupWindow$1
@@ -733,8 +717,6 @@ androidx.appcompat.widget.ScrollingTabContainerView:
     private static final int FADE_DURATION
     private static final java.lang.String TAG
 androidx.appcompat.widget.SearchView$InspectionCompanion
-androidx.appcompat.widget.SearchView$SearchAutoComplete:
-    public void <init>(android.content.Context)
 androidx.appcompat.widget.SearchView:
     static final boolean DBG
     private static final java.lang.String IME_OPTION_NO_MICROPHONE
@@ -766,7 +748,6 @@ androidx.appcompat.widget.SwitchCompat:
     private static final int TOUCH_MODE_DOWN
     private static final int TOUCH_MODE_DRAGGING
     private static final int TOUCH_MODE_IDLE
-    public void <init>(android.content.Context)
     public boolean isEmojiCompatEnabled()
 androidx.appcompat.widget.ThemeUtils:
     private static final java.lang.String TAG
@@ -1462,21 +1443,21 @@ androidx.constraintlayout.core.state.State:
     static final int CONSTRAINT_SPREAD
     static final int CONSTRAINT_WRAP
     static final int UNKNOWN
-androidx.constraintlayout.core.state.Transition$$InternalSyntheticLambda$0$3d888d188b5c01a81dc7eff4e14675327b4f418f983c587e12d0af967189809b$0:
+androidx.constraintlayout.core.state.Transition$$InternalSyntheticLambda$1$9c2ac366c789eddbe52f4ef43693846ac2c45dccce6a29f88749a4b2b006669c$0:
     public final float getInterpolation(float)
-androidx.constraintlayout.core.state.Transition$$InternalSyntheticLambda$0$3d888d188b5c01a81dc7eff4e14675327b4f418f983c587e12d0af967189809b$1:
+androidx.constraintlayout.core.state.Transition$$InternalSyntheticLambda$1$9c2ac366c789eddbe52f4ef43693846ac2c45dccce6a29f88749a4b2b006669c$1:
     public final float getInterpolation(float)
-androidx.constraintlayout.core.state.Transition$$InternalSyntheticLambda$0$3d888d188b5c01a81dc7eff4e14675327b4f418f983c587e12d0af967189809b$2:
+androidx.constraintlayout.core.state.Transition$$InternalSyntheticLambda$1$9c2ac366c789eddbe52f4ef43693846ac2c45dccce6a29f88749a4b2b006669c$2:
     public final float getInterpolation(float)
-androidx.constraintlayout.core.state.Transition$$InternalSyntheticLambda$0$3d888d188b5c01a81dc7eff4e14675327b4f418f983c587e12d0af967189809b$3:
+androidx.constraintlayout.core.state.Transition$$InternalSyntheticLambda$1$9c2ac366c789eddbe52f4ef43693846ac2c45dccce6a29f88749a4b2b006669c$3:
     public final float getInterpolation(float)
-androidx.constraintlayout.core.state.Transition$$InternalSyntheticLambda$0$3d888d188b5c01a81dc7eff4e14675327b4f418f983c587e12d0af967189809b$4:
+androidx.constraintlayout.core.state.Transition$$InternalSyntheticLambda$1$9c2ac366c789eddbe52f4ef43693846ac2c45dccce6a29f88749a4b2b006669c$4:
     public final float getInterpolation(float)
-androidx.constraintlayout.core.state.Transition$$InternalSyntheticLambda$0$3d888d188b5c01a81dc7eff4e14675327b4f418f983c587e12d0af967189809b$5:
+androidx.constraintlayout.core.state.Transition$$InternalSyntheticLambda$1$9c2ac366c789eddbe52f4ef43693846ac2c45dccce6a29f88749a4b2b006669c$5:
     public final float getInterpolation(float)
-androidx.constraintlayout.core.state.Transition$$InternalSyntheticLambda$0$3d888d188b5c01a81dc7eff4e14675327b4f418f983c587e12d0af967189809b$6:
+androidx.constraintlayout.core.state.Transition$$InternalSyntheticLambda$1$9c2ac366c789eddbe52f4ef43693846ac2c45dccce6a29f88749a4b2b006669c$6:
     public final float getInterpolation(float)
-androidx.constraintlayout.core.state.Transition$$InternalSyntheticLambda$0$3d888d188b5c01a81dc7eff4e14675327b4f418f983c587e12d0af967189809b$7:
+androidx.constraintlayout.core.state.Transition$$InternalSyntheticLambda$1$9c2ac366c789eddbe52f4ef43693846ac2c45dccce6a29f88749a4b2b006669c$7:
     public final float getInterpolation(float)
 androidx.constraintlayout.core.state.Transition:
     static final int ANTICIPATE
@@ -3218,7 +3199,6 @@ androidx.core.text.BidiFormatter:
     public boolean isRtl(java.lang.CharSequence)
     public boolean isRtl(java.lang.String)
     public boolean isRtlContext()
-    public java.lang.CharSequence unicodeWrap(java.lang.CharSequence)
     public java.lang.CharSequence unicodeWrap(java.lang.CharSequence,androidx.core.text.TextDirectionHeuristicCompat)
     public java.lang.CharSequence unicodeWrap(java.lang.CharSequence,boolean)
     public java.lang.String unicodeWrap(java.lang.String,androidx.core.text.TextDirectionHeuristicCompat)
@@ -3701,13 +3681,10 @@ androidx.core.view.ViewCompat:
     public static boolean isKeyboardNavigationCluster(android.view.View)
     public static boolean isLayoutDirectionResolved(android.view.View)
     public static boolean isOpaque(android.view.View)
-    public static boolean isPaddingRelative(android.view.View)
     public static void jumpDrawablesToCurrentState(android.view.View)
     public static android.view.View keyboardNavigationClusterSearch(android.view.View,android.view.View,int)
     public static void onInitializeAccessibilityEvent(android.view.View,android.view.accessibility.AccessibilityEvent)
-    public static void onInitializeAccessibilityNodeInfo(android.view.View,androidx.core.view.accessibility.AccessibilityNodeInfoCompat)
     public static void onPopulateAccessibilityEvent(android.view.View,android.view.accessibility.AccessibilityEvent)
-    public static boolean performAccessibilityAction(android.view.View,int,android.os.Bundle)
     public static void postInvalidateOnAnimation(android.view.View,int,int,int,int)
     public static void removeOnUnhandledKeyEventListener(android.view.View,androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerCompat)
     public static android.view.View requireViewById(android.view.View,int)
@@ -4033,7 +4010,6 @@ androidx.core.view.accessibility.AccessibilityRecordCompat:
     public void setScrollable(boolean)
     public void setSource(android.view.View)
     public void setSource(android.view.View,int)
-    public static void setSource(android.view.accessibility.AccessibilityRecord,android.view.View,int)
     public void setToIndex(int)
 androidx.core.view.accessibility.AccessibilityViewCommand$MoveAtGranularityArguments:
     public void <init>()
@@ -4195,7 +4171,6 @@ androidx.core.widget.NestedScrollView:
     private static final int INVALID_POINTER
     static final float MAX_SCROLL_FACTOR
     private static final java.lang.String TAG
-    public void <init>(android.content.Context)
     public boolean isFillViewport()
     public boolean isSmoothScrollingEnabled()
     public final void smoothScrollBy(int,int,int)
@@ -4272,14 +4247,16 @@ androidx.cursoradapter.widget.CursorAdapter:
     public static final int FLAG_REGISTER_CONTENT_OBSERVER
 androidx.customview.view.AbsSavedState:
     protected void <init>(android.os.Parcel)
-androidx.customview.widget.ExploreByTouchHelper$1
-androidx.customview.widget.ExploreByTouchHelper$2
-androidx.customview.widget.ExploreByTouchHelper$MyNodeProvider
-androidx.customview.widget.ExploreByTouchHelper
-androidx.customview.widget.FocusStrategy$BoundsAdapter
-androidx.customview.widget.FocusStrategy$CollectionAdapter
-androidx.customview.widget.FocusStrategy$SequentialComparator
-androidx.customview.widget.FocusStrategy
+androidx.customview.widget.ExploreByTouchHelper:
+    private static final java.lang.String DEFAULT_CLASS_NAME
+    public static final int HOST_ID
+    public static final int INVALID_ID
+    public int getFocusedVirtualView()
+    public final void invalidateRoot()
+    public final void invalidateVirtualView(int)
+    public final void invalidateVirtualView(int,int)
+androidx.customview.widget.FocusStrategy:
+    private void <init>()
 androidx.customview.widget.ViewDragHelper:
     private static final int BASE_SETTLE_DURATION
     public static final int DIRECTION_ALL
@@ -4935,8 +4912,6 @@ androidx.navigation.ui.R$style
 androidx.navigation.ui.R$styleable
 androidx.navigation.ui.R
 androidx.preference.AndroidResources
-androidx.preference.CheckBoxPreference:
-    public void <init>(android.content.Context)
 androidx.preference.DropDownPreference:
     public void <init>(android.content.Context)
     public void setEntries(java.lang.CharSequence[])
@@ -4981,8 +4956,6 @@ androidx.preference.Preference:
     private static final java.lang.String CLIPBOARD_ID
     public static final int DEFAULT_ORDER
     final boolean wasDetached()
-androidx.preference.PreferenceCategory:
-    public void <init>(android.content.Context)
 androidx.preference.PreferenceDialogFragment$Api30Impl
 androidx.preference.PreferenceDialogFragment
 androidx.preference.PreferenceDialogFragmentCompat$Api30Impl:
@@ -5071,9 +5044,6 @@ androidx.preference.TwoStatePreference:
     public java.lang.CharSequence getSummaryOn()
     public void setSummaryOff(int)
     public void setSummaryOn(int)
-androidx.preference.UnPressableLinearLayout
-androidx.preference.internal.PreferenceImageView:
-    public void <init>(android.content.Context)
 androidx.preference.internal.package-info
 androidx.print.PrintHelper:
     public static final int COLOR_MODE_COLOR
@@ -5194,8 +5164,6 @@ androidx.recyclerview.widget.GridLayoutManager:
     public static final int DEFAULT_SPAN_COUNT
     private static final java.lang.String TAG
     public void <init>(android.content.Context,int)
-    public void <init>(android.content.Context,int,int,boolean)
-    public int getSpanCount()
     public androidx.recyclerview.widget.GridLayoutManager$SpanSizeLookup getSpanSizeLookup()
     public boolean isUsingSpansToEstimateScrollbarDimensions()
     public void setSpanSizeLookup(androidx.recyclerview.widget.GridLayoutManager$SpanSizeLookup)
@@ -6061,7 +6029,6 @@ com.google.android.material.appbar.AppBarLayout:
     static final int PENDING_ACTION_EXPANDED
     static final int PENDING_ACTION_FORCE
     static final int PENDING_ACTION_NONE
-    public void <init>(android.content.Context)
     public boolean isLifted()
 com.google.android.material.appbar.CollapsingToolbarLayout$LayoutParams:
     public static final int COLLAPSE_MODE_OFF
@@ -6081,7 +6048,9 @@ com.google.android.material.appbar.CollapsingToolbarLayout:
     public static final int TITLE_COLLAPSE_MODE_SCALE
 com.google.android.material.appbar.HeaderBehavior:
     private static final int INVALID_POINTER
-com.google.android.material.appbar.MaterialToolbar
+com.google.android.material.appbar.MaterialToolbar:
+    public boolean isSubtitleCentered()
+    public boolean isTitleCentered()
 com.google.android.material.appbar.ViewOffsetBehavior:
     public int getLeftAndRightOffset()
     public boolean isHorizontalOffsetEnabled()
@@ -6229,18 +6198,16 @@ com.google.android.material.button.MaterialButton:
     public static final int ICON_GRAVITY_TEXT_TOP
     public static final int ICON_GRAVITY_TOP
     private static final java.lang.String LOG_TAG
-    public void <init>(android.content.Context)
-    public void addOnCheckedChangeListener(com.google.android.material.button.MaterialButton$OnCheckedChangeListener)
     public void clearOnCheckedChangeListeners()
-    public void removeOnCheckedChangeListener(com.google.android.material.button.MaterialButton$OnCheckedChangeListener)
-com.google.android.material.button.MaterialButtonToggleGroup$1
-com.google.android.material.button.MaterialButtonToggleGroup$2
-com.google.android.material.button.MaterialButtonToggleGroup$CheckedStateTracker
-com.google.android.material.button.MaterialButtonToggleGroup$CornerData
-com.google.android.material.button.MaterialButtonToggleGroup$OnButtonCheckedListener
-com.google.android.material.button.MaterialButtonToggleGroup$PressedStateTracker
-com.google.android.material.button.MaterialButtonToggleGroup
-com.google.android.material.canvas.CanvasCompat
+com.google.android.material.button.MaterialButtonToggleGroup:
+    public void check(int)
+    public void clearOnButtonCheckedListeners()
+    public boolean isSelectionRequired()
+    public void removeOnButtonCheckedListener(com.google.android.material.button.MaterialButtonToggleGroup$OnButtonCheckedListener)
+    public void uncheck(int)
+com.google.android.material.canvas.CanvasCompat:
+    private void <init>()
+    public static int saveLayerAlpha(android.graphics.Canvas,android.graphics.RectF,int)
 com.google.android.material.card.MaterialCardView:
     private static final java.lang.String ACCESSIBILITY_CLASS_NAME
     private static final java.lang.String LOG_TAG
@@ -6252,18 +6219,46 @@ com.google.android.material.card.MaterialCardViewHelper:
 com.google.android.material.checkbox.MaterialCheckBox:
     public void <init>(android.content.Context)
     public boolean isUseMaterialThemeColors()
-com.google.android.material.chip.Chip$1
-com.google.android.material.chip.Chip$2
-com.google.android.material.chip.Chip$ChipTouchHelper
-com.google.android.material.chip.Chip
-com.google.android.material.chip.ChipDrawable$Delegate
-com.google.android.material.chip.ChipDrawable
-com.google.android.material.chip.ChipGroup$1
-com.google.android.material.chip.ChipGroup$CheckedStateTracker
-com.google.android.material.chip.ChipGroup$LayoutParams
-com.google.android.material.chip.ChipGroup$OnCheckedChangeListener
-com.google.android.material.chip.ChipGroup$PassThroughHierarchyChangeListener
-com.google.android.material.chip.ChipGroup
+com.google.android.material.chip.Chip:
+    private static final java.lang.String BUTTON_ACCESSIBILITY_CLASS_NAME
+    private static final int CHIP_BODY_VIRTUAL_ID
+    private static final int CLOSE_ICON_VIRTUAL_ID
+    private static final java.lang.String COMPOUND_BUTTON_ACCESSIBILITY_CLASS_NAME
+    private static final java.lang.String GENERIC_VIEW_ACCESSIBILITY_CLASS_NAME
+    private static final int MIN_TOUCH_TARGET_DP
+    private static final java.lang.String NAMESPACE_ANDROID
+    private static final java.lang.String TAG
+    public boolean isCheckedIconEnabled()
+    public boolean isCheckedIconVisible()
+    public boolean isChipIconEnabled()
+    public boolean isChipIconVisible()
+    public boolean isCloseIconEnabled()
+com.google.android.material.chip.ChipDrawable:
+    private static final boolean DEBUG
+    private static final int MAX_CHIP_ICON_HEIGHT
+    private static final java.lang.String NAMESPACE_APP
+    public static com.google.android.material.chip.ChipDrawable createFromResource(android.content.Context,int)
+    public void getChipTouchBounds(android.graphics.RectF)
+    public int getMaxWidth()
+    public boolean isCheckedIconEnabled()
+    public boolean isCheckedIconVisible()
+    public boolean isChipIconEnabled()
+    public boolean isChipIconVisible()
+    public boolean isCloseIconEnabled()
+    boolean isShapeThemingEnabled()
+    public void setCheckedIconEnabled(boolean)
+    public void setCheckedIconEnabledResource(int)
+    public void setChipIconEnabled(boolean)
+    public void setChipIconEnabledResource(int)
+    public void setCloseIconEnabled(boolean)
+    public void setCloseIconEnabledResource(int)
+    public void setCloseIconVisible(int)
+    public void setTextResource(int)
+    public void setTextSize(float)
+com.google.android.material.chip.ChipGroup$LayoutParams:
+    public void <init>(android.view.ViewGroup$MarginLayoutParams)
+com.google.android.material.chip.ChipGroup:
+    public boolean isSelectionRequired()
 com.google.android.material.circularreveal.CircularRevealCompat:
     private void <init>()
     public static android.animation.Animator createCircularReveal(com.google.android.material.circularreveal.CircularRevealWidget,float,float,float,float)
@@ -6300,12 +6295,18 @@ com.google.android.material.color.MaterialColors:
     public static int compositeARGBWithAlpha(int,int)
     public static boolean isColorLight(int)
     public static int layer(android.view.View,int,int)
-com.google.android.material.datepicker.CalendarConstraints$1
-com.google.android.material.datepicker.CalendarConstraints$Builder
-com.google.android.material.datepicker.CalendarConstraints$DateValidator
-com.google.android.material.datepicker.CalendarConstraints
-com.google.android.material.datepicker.CalendarItemStyle
-com.google.android.material.datepicker.CalendarStyle
+com.google.android.material.datepicker.CalendarConstraints$Builder:
+    private static final java.lang.String DEEP_COPY_VALIDATOR_KEY
+    public void <init>()
+    public com.google.android.material.datepicker.CalendarConstraints$Builder setEnd(long)
+    public com.google.android.material.datepicker.CalendarConstraints$Builder setStart(long)
+    public com.google.android.material.datepicker.CalendarConstraints$Builder setValidator(com.google.android.material.datepicker.CalendarConstraints$DateValidator)
+com.google.android.material.datepicker.CalendarConstraints:
+    boolean isWithinBounds(long)
+    void setOpenAt(com.google.android.material.datepicker.Month)
+com.google.android.material.datepicker.CalendarItemStyle:
+    int getLeftInset()
+    int getRightInset()
 com.google.android.material.datepicker.CompositeDateValidator$1
 com.google.android.material.datepicker.CompositeDateValidator$2
 com.google.android.material.datepicker.CompositeDateValidator$3
@@ -6314,47 +6315,72 @@ com.google.android.material.datepicker.CompositeDateValidator
 com.google.android.material.datepicker.DateFormatTextWatcher$1
 com.google.android.material.datepicker.DateFormatTextWatcher$2
 com.google.android.material.datepicker.DateFormatTextWatcher
-com.google.android.material.datepicker.DateSelector
-com.google.android.material.datepicker.DateStrings
+com.google.android.material.datepicker.DateSelector:
+    public abstract int getDefaultTitleResId()
+    public abstract void setSelection(java.lang.Object)
+com.google.android.material.datepicker.DateStrings:
+    private void <init>()
+    static androidx.core.util.Pair getDateRangeString(java.lang.Long,java.lang.Long)
+    static androidx.core.util.Pair getDateRangeString(java.lang.Long,java.lang.Long,java.text.SimpleDateFormat)
+    static java.lang.String getDateString(long)
+    static java.lang.String getDateString(long,java.text.SimpleDateFormat)
+    static java.lang.String getMonthDay(long)
+    static java.lang.String getMonthDay(long,java.util.Locale)
+    static java.lang.String getYearMonthDay(long)
+    static java.lang.String getYearMonthDay(long,java.util.Locale)
 com.google.android.material.datepicker.DateValidatorPointBackward$1
 com.google.android.material.datepicker.DateValidatorPointBackward
-com.google.android.material.datepicker.DateValidatorPointForward$1
-com.google.android.material.datepicker.DateValidatorPointForward
-com.google.android.material.datepicker.DaysOfWeekAdapter
-com.google.android.material.datepicker.MaterialCalendar$10
-com.google.android.material.datepicker.MaterialCalendar$1
-com.google.android.material.datepicker.MaterialCalendar$2
-com.google.android.material.datepicker.MaterialCalendar$3
-com.google.android.material.datepicker.MaterialCalendar$4
-com.google.android.material.datepicker.MaterialCalendar$5
-com.google.android.material.datepicker.MaterialCalendar$6
-com.google.android.material.datepicker.MaterialCalendar$7
-com.google.android.material.datepicker.MaterialCalendar$8
-com.google.android.material.datepicker.MaterialCalendar$9
-com.google.android.material.datepicker.MaterialCalendar$CalendarSelector
-com.google.android.material.datepicker.MaterialCalendar$OnDayClickListener
-com.google.android.material.datepicker.MaterialCalendar
-com.google.android.material.datepicker.MaterialCalendarGridView$1
-com.google.android.material.datepicker.MaterialCalendarGridView
-com.google.android.material.datepicker.MaterialDatePicker$1
-com.google.android.material.datepicker.MaterialDatePicker$2
-com.google.android.material.datepicker.MaterialDatePicker$3
-com.google.android.material.datepicker.MaterialDatePicker$4
+com.google.android.material.datepicker.DateValidatorPointForward:
+    public static com.google.android.material.datepicker.DateValidatorPointForward now()
+com.google.android.material.datepicker.DaysOfWeekAdapter:
+    private static final int NARROW_FORMAT
+com.google.android.material.datepicker.MaterialCalendar:
+    private static final java.lang.String CALENDAR_CONSTRAINTS_KEY
+    private static final java.lang.String CURRENT_MONTH_KEY
+    private static final java.lang.String GRID_SELECTOR_KEY
+    private static final int SMOOTH_SCROLL_MAX
+    private static final java.lang.String THEME_RES_ID_KEY
+com.google.android.material.datepicker.MaterialDatePicker$3:
+    public void onIncompleteSelectionChanged()
 com.google.android.material.datepicker.MaterialDatePicker$Builder
 com.google.android.material.datepicker.MaterialDatePicker$InputMode
-com.google.android.material.datepicker.MaterialDatePicker
-com.google.android.material.datepicker.MaterialPickerOnPositiveButtonClickListener
+com.google.android.material.datepicker.MaterialDatePicker:
+    private static final java.lang.String CALENDAR_CONSTRAINTS_KEY
+    private static final java.lang.String DATE_SELECTOR_KEY
+    public static final int INPUT_MODE_CALENDAR
+    private static final java.lang.String INPUT_MODE_KEY
+    public static final int INPUT_MODE_TEXT
+    private static final java.lang.String OVERRIDE_THEME_RES_ID
+    private static final java.lang.String TITLE_TEXT_KEY
+    private static final java.lang.String TITLE_TEXT_RES_ID_KEY
+    public boolean addOnCancelListener(android.content.DialogInterface$OnCancelListener)
+    public boolean addOnDismissListener(android.content.DialogInterface$OnDismissListener)
+    public boolean addOnNegativeButtonClickListener(android.view.View$OnClickListener)
+    public boolean addOnPositiveButtonClickListener(com.google.android.material.datepicker.MaterialPickerOnPositiveButtonClickListener)
+    public void clearOnCancelListeners()
+    public void clearOnDismissListeners()
+    public void clearOnNegativeButtonClickListeners()
+    public void clearOnPositiveButtonClickListeners()
+    static com.google.android.material.datepicker.MaterialDatePicker newInstance(com.google.android.material.datepicker.MaterialDatePicker$Builder)
+    public boolean removeOnCancelListener(android.content.DialogInterface$OnCancelListener)
+    public boolean removeOnDismissListener(android.content.DialogInterface$OnDismissListener)
+    public boolean removeOnNegativeButtonClickListener(android.view.View$OnClickListener)
+    public boolean removeOnPositiveButtonClickListener(com.google.android.material.datepicker.MaterialPickerOnPositiveButtonClickListener)
+    public static long thisMonthInUtcMilliseconds()
+    public static long todayInUtcMilliseconds()
 com.google.android.material.datepicker.MaterialStyledDatePickerDialog
-com.google.android.material.datepicker.MaterialTextInputPicker$1
-com.google.android.material.datepicker.MaterialTextInputPicker
-com.google.android.material.datepicker.Month$1
-com.google.android.material.datepicker.Month
-com.google.android.material.datepicker.MonthAdapter
-com.google.android.material.datepicker.MonthsPagerAdapter$1
-com.google.android.material.datepicker.MonthsPagerAdapter$ViewHolder
-com.google.android.material.datepicker.MonthsPagerAdapter
-com.google.android.material.datepicker.OnSelectionChangedListener
-com.google.android.material.datepicker.PickerFragment
+com.google.android.material.datepicker.MaterialTextInputPicker$1:
+    public void onIncompleteSelectionChanged()
+com.google.android.material.datepicker.MaterialTextInputPicker:
+    private static final java.lang.String CALENDAR_CONSTRAINTS_KEY
+    private static final java.lang.String DATE_SELECTOR_KEY
+    private static final java.lang.String THEME_RES_ID_KEY
+    public com.google.android.material.datepicker.DateSelector getDateSelector()
+com.google.android.material.datepicker.OnSelectionChangedListener:
+    public void onIncompleteSelectionChanged()
+com.google.android.material.datepicker.PickerFragment:
+    abstract com.google.android.material.datepicker.DateSelector getDateSelector()
+    boolean removeOnSelectionChangedListener(com.google.android.material.datepicker.OnSelectionChangedListener)
 com.google.android.material.datepicker.RangeDateSelector$1
 com.google.android.material.datepicker.RangeDateSelector$2
 com.google.android.material.datepicker.RangeDateSelector$3
@@ -6362,20 +6388,33 @@ com.google.android.material.datepicker.RangeDateSelector
 com.google.android.material.datepicker.SingleDateSelector$1
 com.google.android.material.datepicker.SingleDateSelector$2
 com.google.android.material.datepicker.SingleDateSelector
-com.google.android.material.datepicker.SmoothCalendarLayoutManager$1
-com.google.android.material.datepicker.SmoothCalendarLayoutManager
-com.google.android.material.datepicker.TimeSource
-com.google.android.material.datepicker.UtcDates
-com.google.android.material.datepicker.YearGridAdapter$1
-com.google.android.material.datepicker.YearGridAdapter$ViewHolder
-com.google.android.material.datepicker.YearGridAdapter
-com.google.android.material.dialog.InsetDialogOnTouchListener
+com.google.android.material.datepicker.SmoothCalendarLayoutManager:
+    private static final float MILLISECONDS_PER_INCH
+com.google.android.material.datepicker.TimeSource:
+    static com.google.android.material.datepicker.TimeSource fixed(long)
+    static com.google.android.material.datepicker.TimeSource fixed(long,java.util.TimeZone)
+com.google.android.material.datepicker.UtcDates:
+    static final java.lang.String UTC
+    private void <init>()
+    private static int findCharactersInDateFormatPattern(java.lang.String,java.lang.String,int,int)
+    static android.icu.text.DateFormat getAbbrMonthDayFormat(java.util.Locale)
+    static java.text.DateFormat getFullFormat()
+    static java.text.DateFormat getMediumFormat()
+    static java.text.DateFormat getMediumFormat(java.util.Locale)
+    static java.text.DateFormat getMediumNoYear()
+    static java.text.DateFormat getMediumNoYear(java.util.Locale)
+    static java.text.SimpleDateFormat getSimpleFormat(java.lang.String)
+    private static java.text.SimpleDateFormat getSimpleFormat(java.lang.String,java.util.Locale)
+    static java.text.SimpleDateFormat getTextInputFormat()
+    static java.lang.String getTextInputHint(android.content.res.Resources,java.text.SimpleDateFormat)
+    static android.icu.text.DateFormat getYearAbbrMonthDayFormat(java.util.Locale)
+    private static java.lang.String removeYearFromDateFormatPattern(java.lang.String)
+    static void setTimeSource(com.google.android.material.datepicker.TimeSource)
 com.google.android.material.dialog.MaterialAlertDialogBuilder
 com.google.android.material.dialog.MaterialDialogs
 com.google.android.material.drawable.DrawableUtils:
     private void <init>()
     public static void setRippleDrawableRadius(android.graphics.drawable.RippleDrawable,int)
-    public static android.graphics.PorterDuffColorFilter updateTintFilter(android.graphics.drawable.Drawable,android.content.res.ColorStateList,android.graphics.PorterDuff$Mode)
 com.google.android.material.elevation.ElevationOverlayProvider:
     private static final float FORMULA_MULTIPLIER
     private static final float FORMULA_OFFSET
@@ -6478,10 +6517,7 @@ com.google.android.material.floatingactionbutton.MotionStrategy:
     public abstract void removeAnimationListener(android.animation.Animator$AnimatorListener)
 com.google.android.material.imageview.ShapeableImageView$OutlineProvider
 com.google.android.material.imageview.ShapeableImageView
-com.google.android.material.internal.BaselineLayout:
-    public void <init>(android.content.Context)
 com.google.android.material.internal.CheckableImageButton:
-    public void <init>(android.content.Context)
     public boolean isPressable()
 com.google.android.material.internal.CollapsingTextHelper:
     private static final boolean DEBUG_DRAW
@@ -6497,7 +6533,9 @@ com.google.android.material.internal.ContextUtils:
 com.google.android.material.internal.DescendantOffsetUtils:
     public void <init>()
 com.google.android.material.internal.Experimental
-com.google.android.material.internal.FlowLayout
+com.google.android.material.internal.FlowLayout:
+    public void <init>(android.content.Context)
+    public void <init>(android.content.Context,android.util.AttributeSet,int,int)
 com.google.android.material.internal.ForegroundLinearLayout:
     public void <init>(android.content.Context)
 com.google.android.material.internal.ManufacturerUtils:
@@ -6508,8 +6546,6 @@ com.google.android.material.internal.ManufacturerUtils:
     public static boolean isDateInputKeyboardMissingSeparatorCharacters()
     public static boolean isLGEDevice()
     public static boolean isSamsungDevice()
-com.google.android.material.internal.NavigationMenuItemView:
-    public void <init>(android.content.Context)
 com.google.android.material.internal.NavigationMenuPresenter$NavigationMenuAdapter:
     private static final java.lang.String STATE_ACTION_VIEWS
     private static final java.lang.String STATE_CHECKED_ITEM
@@ -6522,8 +6558,6 @@ com.google.android.material.internal.NavigationMenuPresenter:
     private static final java.lang.String STATE_HEADER
     private static final java.lang.String STATE_HIERARCHY
     public boolean isBehindStatusBar()
-com.google.android.material.internal.NavigationMenuView:
-    public void <init>(android.content.Context)
 com.google.android.material.internal.ParcelableSparseBooleanArray$1
 com.google.android.material.internal.ParcelableSparseBooleanArray
 com.google.android.material.internal.ParcelableSparseIntArray$1
@@ -6545,7 +6579,12 @@ com.google.android.material.internal.ThemeEnforcement:
     private void <init>()
     public static boolean isAppCompatTheme(android.content.Context)
     public static boolean isMaterialTheme(android.content.Context)
-com.google.android.material.internal.ToolbarUtils
+com.google.android.material.internal.ToolbarUtils:
+    private void <init>()
+    public static androidx.appcompat.view.menu.ActionMenuItemView getActionMenuItemView(androidx.appcompat.widget.Toolbar,int)
+    public static androidx.appcompat.widget.ActionMenuView getActionMenuView(androidx.appcompat.widget.Toolbar)
+    public static android.widget.ImageButton getNavigationIconButton(androidx.appcompat.widget.Toolbar)
+    public static android.view.View getSecondaryActionMenuItemView(androidx.appcompat.widget.Toolbar)
 com.google.android.material.internal.ViewGroupOverlayApi14
 com.google.android.material.internal.ViewGroupOverlayApi18
 com.google.android.material.internal.ViewGroupOverlayImpl
@@ -6558,7 +6597,6 @@ com.google.android.material.internal.ViewUtils:
     private void <init>()
     public static void addOnGlobalLayoutListener(android.view.View,android.view.ViewTreeObserver$OnGlobalLayoutListener)
     public static void doOnApplyWindowInsets(android.view.View,android.util.AttributeSet,int,int)
-    public static float dpToPx(android.content.Context,int)
     public static android.view.ViewGroup getContentView(android.view.View)
     public static com.google.android.material.internal.ViewOverlayImpl getContentViewOverlay(android.view.View)
     public static com.google.android.material.internal.ViewOverlayImpl getOverlay(android.view.View)
@@ -6643,7 +6681,6 @@ com.google.android.material.resources.MaterialResources:
     private static final float FONT_SCALE_1_3
     private static final float FONT_SCALE_2_0
     private void <init>()
-    public static com.google.android.material.resources.TextAppearance getTextAppearance(android.content.Context,android.content.res.TypedArray,int)
 com.google.android.material.resources.TextAppearance:
     private static final java.lang.String TAG
     private static final int TYPEFACE_MONOSPACE
@@ -6685,7 +6722,6 @@ com.google.android.material.shape.MaterialShapeDrawable:
     private static final float SHADOW_RADIUS_MULTIPLIER
     public void <init>(com.google.android.material.shape.ShapePathModel)
     public static com.google.android.material.shape.MaterialShapeDrawable createWithElevationOverlay(android.content.Context)
-    protected void drawShape(android.graphics.Canvas,android.graphics.Paint,android.graphics.Path,android.graphics.RectF)
     public android.graphics.Paint$Style getPaintStyle()
     public void getPathForSize(int,int,android.graphics.Path)
     public float getScale()
@@ -6700,7 +6736,6 @@ com.google.android.material.shape.MaterialShapeDrawable:
     public boolean isElevationOverlayInitialized()
     public boolean isPointInTransparentRegion(int,int)
     public boolean isShadowEnabled()
-    public void setCornerSize(com.google.android.material.shape.CornerSize)
     public void setEdgeIntersectionCheckEnable(boolean)
     public void setScale(float)
     public void setShadowElevation(int)
@@ -6721,7 +6756,6 @@ com.google.android.material.shape.RelativeCornerSize:
 com.google.android.material.shape.RoundedCornerTreatment:
     public void <init>(float)
 com.google.android.material.shape.ShapeAppearanceModel$Builder:
-    public com.google.android.material.shape.ShapeAppearanceModel$Builder setAllCornerSizes(com.google.android.material.shape.CornerSize)
     public com.google.android.material.shape.ShapeAppearanceModel$Builder setAllCorners(int,float)
     public com.google.android.material.shape.ShapeAppearanceModel$Builder setAllCorners(com.google.android.material.shape.CornerTreatment)
     public com.google.android.material.shape.ShapeAppearanceModel$Builder setAllEdges(com.google.android.material.shape.EdgeTreatment)
@@ -6732,8 +6766,6 @@ com.google.android.material.shape.ShapeAppearanceModel$Builder:
     public com.google.android.material.shape.ShapeAppearanceModel$Builder setRightEdge(com.google.android.material.shape.EdgeTreatment)
     public com.google.android.material.shape.ShapeAppearanceModel$Builder setTopLeftCorner(int,float)
     public com.google.android.material.shape.ShapeAppearanceModel$Builder setTopRightCorner(int,float)
-com.google.android.material.shape.ShapeAppearanceModel:
-    public com.google.android.material.shape.ShapeAppearanceModel withCornerSize(com.google.android.material.shape.CornerSize)
 com.google.android.material.shape.ShapeAppearancePathProvider$Lazy:
     private void <init>()
 com.google.android.material.shape.ShapeAppearancePathProvider:
@@ -6801,16 +6833,15 @@ com.google.android.material.snackbar.BaseTransientBottomBar$BehaviorDelegate:
     public void setBaseTransientBottomBar(com.google.android.material.snackbar.BaseTransientBottomBar)
 com.google.android.material.snackbar.BaseTransientBottomBar$ContentViewCallback
 com.google.android.material.snackbar.BaseTransientBottomBar$Duration
-com.google.android.material.snackbar.BaseTransientBottomBar$SnackbarBaseLayout:
-    protected void <init>(android.content.Context)
 com.google.android.material.snackbar.BaseTransientBottomBar
 com.google.android.material.snackbar.ContentViewCallback
 com.google.android.material.snackbar.Snackbar$1
 com.google.android.material.snackbar.Snackbar$Callback
-com.google.android.material.snackbar.Snackbar$SnackbarLayout:
-    public void <init>(android.content.Context)
 com.google.android.material.snackbar.Snackbar
-com.google.android.material.snackbar.SnackbarContentLayout
+com.google.android.material.snackbar.SnackbarContentLayout:
+    public void animateContentIn(int,int)
+    public void animateContentOut(int,int)
+    void updateActionTextColorAlphaIfNeeded(float)
 com.google.android.material.snackbar.SnackbarManager$Callback:
     public abstract void show()
 com.google.android.material.snackbar.SnackbarManager$SnackbarRecord:
@@ -6882,7 +6913,6 @@ com.google.android.material.textfield.MaterialAutoCompleteTextView:
     private static final int MAX_ITEMS_MEASURED
     public void <init>(android.content.Context)
 com.google.android.material.textfield.TextInputEditText:
-    public void <init>(android.content.Context)
     public boolean isTextInputLayoutFocusedRectEnabled()
 com.google.android.material.textfield.TextInputLayout$BoxBackgroundMode
 com.google.android.material.textfield.TextInputLayout$EndIconMode
@@ -6899,7 +6929,6 @@ com.google.android.material.textfield.TextInputLayout:
     private static final int LABEL_SCALE_ANIMATION_DURATION
     private static final java.lang.String LOG_TAG
     private static final int NO_WIDTH
-    public void <init>(android.content.Context)
     public void clearOnEditTextAttachedListeners()
     public void clearOnEndIconChangedListeners()
     boolean cutoutIsOpen()
@@ -6915,34 +6944,45 @@ com.google.android.material.textfield.TextInputLayout:
     public void passwordVisibilityToggleRequested(boolean)
     public void removeOnEditTextAttachedListener(com.google.android.material.textfield.TextInputLayout$OnEditTextAttachedListener)
     public void removeOnEndIconChangedListener(com.google.android.material.textfield.TextInputLayout$OnEndIconChangedListener)
-com.google.android.material.textview.MaterialTextView:
-    public void <init>(android.content.Context)
 com.google.android.material.theme.overlay.MaterialThemeOverlay:
     private void <init>()
-com.google.android.material.timepicker.ChipTextInputComboView$1
-com.google.android.material.timepicker.ChipTextInputComboView$TextFormatter
-com.google.android.material.timepicker.ChipTextInputComboView
+com.google.android.material.timepicker.ChipTextInputComboView$TextFormatter:
+    private static final java.lang.String DEFAULT_TEXT
+com.google.android.material.timepicker.ChipTextInputComboView:
+    public void addInputFilter(android.text.InputFilter)
+    public com.google.android.material.textfield.TextInputLayout getTextInput()
 com.google.android.material.timepicker.ClickActionDelegate
-com.google.android.material.timepicker.ClockFaceView$1
-com.google.android.material.timepicker.ClockFaceView$2
-com.google.android.material.timepicker.ClockFaceView
-com.google.android.material.timepicker.ClockHandView$1
-com.google.android.material.timepicker.ClockHandView$2
-com.google.android.material.timepicker.ClockHandView$OnActionUpListener
-com.google.android.material.timepicker.ClockHandView$OnRotateListener
-com.google.android.material.timepicker.ClockHandView
+com.google.android.material.timepicker.ClockFaceView:
+    private static final float EPSILON
+    private static final int INITIAL_CAPACITY
+    private static final java.lang.String VALUE_PLACEHOLDER
+com.google.android.material.timepicker.ClockHandView:
+    private static final int ANIMATION_DURATION
 com.google.android.material.timepicker.MaterialTimePicker$1
 com.google.android.material.timepicker.MaterialTimePicker$2
 com.google.android.material.timepicker.MaterialTimePicker$3
 com.google.android.material.timepicker.MaterialTimePicker$4
 com.google.android.material.timepicker.MaterialTimePicker$Builder
 com.google.android.material.timepicker.MaterialTimePicker
-com.google.android.material.timepicker.MaxInputValidator
-com.google.android.material.timepicker.RadialViewGroup$1
-com.google.android.material.timepicker.RadialViewGroup
+com.google.android.material.timepicker.MaxInputValidator:
+    public int getMax()
+    public void setMax(int)
+com.google.android.material.timepicker.RadialViewGroup:
+    private static final java.lang.String SKIP_TAG
+    public void <init>(android.content.Context)
 com.google.android.material.timepicker.TimeFormat
-com.google.android.material.timepicker.TimeModel$1
-com.google.android.material.timepicker.TimeModel
+com.google.android.material.timepicker.TimeModel:
+    public static final java.lang.String NUMBER_FORMAT
+    public static final java.lang.String ZERO_LEADING_NUMBER_FORMAT
+    public void <init>()
+    public void <init>(int)
+    public int getHourForDisplay()
+    public com.google.android.material.timepicker.MaxInputValidator getHourInputValidator()
+    public com.google.android.material.timepicker.MaxInputValidator getMinuteInputValidator()
+    public void setHour(int)
+    public void setHourOfDay(int)
+    public void setMinute(int)
+    public void setPeriod(int)
 com.google.android.material.timepicker.TimePickerClockPresenter
 com.google.android.material.timepicker.TimePickerControls$ActiveSelection
 com.google.android.material.timepicker.TimePickerControls$ClockPeriod
@@ -6954,14 +6994,10 @@ com.google.android.material.timepicker.TimePickerTextInputPresenter$2
 com.google.android.material.timepicker.TimePickerTextInputPresenter$3
 com.google.android.material.timepicker.TimePickerTextInputPresenter$4
 com.google.android.material.timepicker.TimePickerTextInputPresenter
-com.google.android.material.timepicker.TimePickerView$1
-com.google.android.material.timepicker.TimePickerView$2
-com.google.android.material.timepicker.TimePickerView$3
-com.google.android.material.timepicker.TimePickerView$4
-com.google.android.material.timepicker.TimePickerView$OnDoubleTapListener
-com.google.android.material.timepicker.TimePickerView$OnPeriodChangeListener
-com.google.android.material.timepicker.TimePickerView$OnSelectionChange
-com.google.android.material.timepicker.TimePickerView
+com.google.android.material.timepicker.TimePickerView:
+    public void addOnRotateListener(com.google.android.material.timepicker.ClockHandView$OnRotateListener)
+    public void showToggle()
+    public void updateTime(int,int,int)
 com.google.android.material.tooltip.TooltipDrawable$1
 com.google.android.material.tooltip.TooltipDrawable
 com.google.android.material.transformation.ExpandableBehavior:
@@ -11649,9 +11685,75 @@ android.runtime.XmlReaderPullParser:
     public static final java.lang.String __md_methods
 android.runtime.XmlReaderResourceParser:
     public static final java.lang.String __md_methods
+androidx.activity.ImmLeaksCleaner:
+    void <init>(android.app.Activity)
+androidx.appcompat.app.ActionBarDrawerToggle$FrameworkActionBarDelegate:
+    private androidx.appcompat.app.ActionBarDrawerToggleHoneycomb$SetIndicatorInfo mSetIndicatorInfo
+androidx.appcompat.app.ActionBarDrawerToggleHoneycomb$SetIndicatorInfo
+androidx.appcompat.app.ActionBarDrawerToggleHoneycomb
+androidx.appcompat.app.AlertController$2
+androidx.appcompat.app.AlertController$3
+androidx.appcompat.app.AlertController$4
+androidx.appcompat.app.AlertController$5
+androidx.appcompat.app.AlertController:
+    static void manageScrollIndicators(android.view.View,android.view.View,android.view.View)
+androidx.appcompat.app.AppCompatDelegateImpl$1
+androidx.appcompat.app.AppCompatDelegateImpl$4
+androidx.appcompat.app.AppCompatDelegateImpl:
+    private static boolean sInstalledExceptionHandler
+androidx.appcompat.app.ResourcesFlusher:
+    private static void flushLollipops(android.content.res.Resources)
+    private static void flushMarshmallows(android.content.res.Resources)
+androidx.appcompat.view.WindowCallbackWrapper:
+    public android.view.ActionMode onWindowStartingActionMode(android.view.ActionMode$Callback)
 androidx.appcompat.view.menu.SubMenuWrapperICS
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper:
+    private static java.lang.Object accessAndReturnWithDefault(java.lang.Object,java.lang.String,java.lang.Object)
+    private android.text.StaticLayout createStaticLayoutForMeasuringPre16(java.lang.CharSequence,android.text.Layout$Alignment,int)
+    private android.text.StaticLayout createStaticLayoutForMeasuringPre23(java.lang.CharSequence,android.text.Layout$Alignment,int)
+    private static java.lang.reflect.Field getTextViewField(java.lang.String)
+androidx.appcompat.widget.ContentFrameLayout:
+    public void dispatchFitSystemWindows(android.graphics.Rect)
+androidx.appcompat.widget.FitWindowsViewGroup
+androidx.appcompat.widget.ListPopupWindow:
+    private static java.lang.reflect.Method sGetMaxAvailableHeightMethod
+androidx.appcompat.widget.ResourceManagerInternal$AvdcInflateDelegate
+androidx.appcompat.widget.ResourceManagerInternal$DrawableDelegate
+androidx.appcompat.widget.ResourceManagerInternal$VdcInflateDelegate
+androidx.appcompat.widget.ResourceManagerInternal:
+    private void addDelegate(java.lang.String,androidx.appcompat.widget.ResourceManagerInternal$InflateDelegate)
 androidx.appcompat.widget.ThemedSpinnerAdapter
 androidx.appcompat.widget.WithHint
+androidx.cardview.R$dimen
+androidx.cardview.widget.CardView$1:
+    public void setMinWidthHeightInternal(int,int)
+androidx.cardview.widget.CardView:
+    static synthetic void access$101(androidx.cardview.widget.CardView,int)
+    static synthetic void access$201(androidx.cardview.widget.CardView,int)
+androidx.cardview.widget.CardViewApi17Impl$1
+androidx.cardview.widget.CardViewApi17Impl
+androidx.cardview.widget.CardViewBaseImpl$1
+androidx.cardview.widget.CardViewBaseImpl
+androidx.cardview.widget.CardViewDelegate:
+    public abstract void setMinWidthHeightInternal(int,int)
+androidx.cardview.widget.RoundRectDrawableWithShadow:
+    private boolean mPrintedShadowClipWarning
+    void <init>(android.content.res.Resources,android.content.res.ColorStateList,float,float,float)
+    android.content.res.ColorStateList getColor()
+    float getCornerRadius()
+    void getMaxShadowAndCornerPadding(android.graphics.Rect)
+    float getMaxShadowSize()
+    float getMinHeight()
+    float getMinWidth()
+    float getShadowSize()
+    void setAddPaddingForCorners(boolean)
+    private void setBackground(android.content.res.ColorStateList)
+    void setColor(android.content.res.ColorStateList)
+    void setCornerRadius(float)
+    void setMaxShadowSize(float)
+    void setShadowSize(float)
+    private void setShadowSize(float,float)
+    private int toEven(float)
 androidx.constraintlayout.core.LinearSystem:
     public static boolean USE_SYNONYMS
 androidx.constraintlayout.core.SolverVariable:
@@ -11673,11 +11775,76 @@ androidx.constraintlayout.motion.widget.MotionLayout$DevModeDraw:
 androidx.constraintlayout.motion.widget.MotionPaths:
     private static final float xRotate(float,float,float,float,float,float)
     private static final float yRotate(float,float,float,float,float,float)
+androidx.core.app.ActivityCompat$1
+androidx.core.app.ActivityCompat$2
 androidx.core.app.CoreComponentFactory$CompatWrapped
+androidx.core.content.ContextCompat$LegacyServiceMapHolder
+androidx.core.content.ContextCompat:
+    private static android.util.TypedValue sTempValue
+    private static java.io.File createFilesDir(java.io.File)
+androidx.core.graphics.PaintCompat:
+    private static androidx.core.util.Pair obtainEmptyRects()
+androidx.core.graphics.TypefaceCompat:
+    private static android.graphics.Typeface getBestFontFromFamily(android.content.Context,android.graphics.Typeface,int)
+androidx.core.graphics.TypefaceCompatApi29Impl:
+    protected android.graphics.Typeface createFromInputStream(android.content.Context,java.io.InputStream)
+androidx.core.graphics.TypefaceCompatBaseImpl$2
+androidx.core.graphics.TypefaceCompatBaseImpl:
+    private void addFontFamily(android.graphics.Typeface,androidx.core.content.res.FontResourcesParserCompat$FontFamilyFilesResourceEntry)
+    private androidx.core.content.res.FontResourcesParserCompat$FontFileResourceEntry findBestEntry(androidx.core.content.res.FontResourcesParserCompat$FontFamilyFilesResourceEntry,int)
+    androidx.core.content.res.FontResourcesParserCompat$FontFamilyFilesResourceEntry getFontFamily(android.graphics.Typeface)
+    private static long getUniqueKey(android.graphics.Typeface)
+androidx.core.graphics.drawable.DrawableCompat:
+    private static java.lang.reflect.Method sGetLayoutDirectionMethod
+    private static boolean sGetLayoutDirectionMethodFetched
+    private static java.lang.reflect.Method sSetLayoutDirectionMethod
+    private static boolean sSetLayoutDirectionMethodFetched
+androidx.core.graphics.drawable.TintAwareDrawable
+androidx.core.graphics.drawable.WrappedDrawableApi14
+androidx.core.graphics.drawable.WrappedDrawableApi21
+androidx.core.graphics.drawable.WrappedDrawableState
 androidx.core.internal.view.SupportSubMenu
+androidx.core.text.ICUCompat
 androidx.core.text.PrecomputedTextCompat:
     public abstract androidx.core.text.PrecomputedTextCompat$Params getParams()
     public abstract android.text.PrecomputedText getPrecomputedText()
+androidx.core.text.TextUtilsCompat:
+    private static int getLayoutDirectionFromFirstChar(java.util.Locale)
+androidx.core.view.LayoutInflaterCompat:
+    private static boolean sCheckedField
+    private static java.lang.reflect.Field sLayoutInflaterFactory2Field
+    private static void forceSetFactory2(android.view.LayoutInflater,android.view.LayoutInflater$Factory2)
+androidx.core.view.NestedScrollingParent
+androidx.core.view.TintableBackgroundView
+androidx.core.view.ViewCompat:
+    private static java.lang.reflect.Field sMinHeightField
+    private static boolean sMinHeightFieldFetched
+    private static java.lang.reflect.Field sMinWidthField
+    private static boolean sMinWidthFieldFetched
+    private static java.lang.ThreadLocal sThreadLocalRect
+    private static java.util.WeakHashMap sTransitionNameMap
+    private static void compatOffsetLeftAndRight(android.view.View,int)
+    private static void compatOffsetTopAndBottom(android.view.View,int)
+    private static android.graphics.Rect getEmptyTempRect()
+    private static void tickleInvalidationFlag(android.view.View)
+androidx.core.view.ViewPropertyAnimatorCompat$ViewPropertyAnimatorListenerApi14
+androidx.core.view.animation.PathInterpolatorApi14
+androidx.core.widget.CheckedTextViewCompat$Api14Impl
+androidx.core.widget.CompoundButtonCompat:
+    private static java.lang.reflect.Field sButtonDrawableField
+    private static boolean sButtonDrawableFieldFetched
+androidx.core.widget.PopupWindowCompat:
+    private static java.lang.reflect.Field sOverlapAnchorField
+    private static boolean sOverlapAnchorFieldAttempted
+    private static java.lang.reflect.Method sSetWindowLayoutTypeMethod
+    private static boolean sSetWindowLayoutTypeMethodAttempted
+androidx.core.widget.TextViewOnReceiveContentListener$ApiImpl
+androidx.core.widget.TintableCheckedTextView
+androidx.core.widget.TintableCompoundButton
+androidx.core.widget.TintableCompoundDrawablesView
+androidx.core.widget.TintableImageSourceView
+androidx.dynamicanimation.animation.AnimationHandler$FrameCallbackProvider14$1
+androidx.dynamicanimation.animation.AnimationHandler$FrameCallbackProvider14
 androidx.emoji2.text.flatbuffer.FlatBufferBuilder:
     static final synthetic boolean $assertionsDisabled
 androidx.emoji2.text.flatbuffer.FlexBuffers$Blob:
@@ -11689,24 +11856,76 @@ androidx.emoji2.text.flatbuffer.FlexBuffersBuilder$Value:
 androidx.emoji2.text.flatbuffer.FlexBuffersBuilder:
     static final synthetic boolean $assertionsDisabled
 androidx.lifecycle.LifecycleRegistryOwner
-androidx.navigation.ActivityNavigator$$InternalSyntheticThrowCCEIfNotNull$4$75c93ea18f4daaf4f6114a35f2129db80036cb8c08c73e10ad0b4cf37c77a296$0
-androidx.navigation.ActivityNavigator$$InternalSyntheticThrowCCEIfNotNull$4$75c93ea18f4daaf4f6114a35f2129db80036cb8c08c73e10ad0b4cf37c77a296$1
+androidx.navigation.ActivityNavigator$$InternalSyntheticThrowCCEIfNotNull$6$843a75611309571d07281357f5129dc3f295e28f2e4b05d9625656ccc50fde7c$0
+androidx.navigation.ActivityNavigator$$InternalSyntheticThrowCCEIfNotNull$6$843a75611309571d07281357f5129dc3f295e28f2e4b05d9625656ccc50fde7c$1
 androidx.navigation.ActivityNavigator$Extras
-androidx.navigation.fragment.FragmentNavigator$$InternalSyntheticThrowCCEIfNotNull$4$013db34d3c06873aeea5b9bf6929f9571388985363f92549d24ca36ce8c0238c$0
+androidx.navigation.fragment.FragmentNavigator$$InternalSyntheticThrowCCEIfNotNull$6$565a902642da98a4bf91de353278993248f152bc80fe2b9c7c99cc81ae1296d2$0
 androidx.navigation.fragment.FragmentNavigator$Extras
 androidx.preference.PreferenceFragmentCompat$OnPreferenceDisplayDialogCallback
 androidx.preference.PreferenceFragmentCompat$OnPreferenceStartFragmentCallback
 androidx.preference.PreferenceFragmentCompat$OnPreferenceStartScreenCallback
+androidx.preference.R$color
 androidx.slidingpanelayout.widget.SlidingPaneLayout$DisableLayerRunnable
+androidx.transition.AnimatorUtils$AnimatorPauseListenerCompat
+androidx.transition.ImageViewUtils:
+    private static java.lang.reflect.Field sDrawMatrixField
+    private static boolean sDrawMatrixFieldFetched
+    private static void fetchDrawMatrixField()
+androidx.transition.PathProperty
+androidx.transition.ViewGroupOverlayApi14
+androidx.transition.ViewGroupUtilsApi14$1
+androidx.transition.ViewGroupUtilsApi14
+androidx.transition.ViewOverlayApi14$OverlayViewGroup
+androidx.transition.ViewOverlayApi14
+androidx.transition.ViewUtilsBase:
+    private float[] mMatrixValues
+    private static boolean sSetFrameFetched
+    private static java.lang.reflect.Method sSetFrameMethod
+    private void fetchSetFrame()
+androidx.transition.WindowIdApi14
+androidx.vectordrawable.graphics.drawable.AnimatedVectorDrawableCompat:
+    private void setupColorAnimator(android.animation.Animator)
+androidx.vectordrawable.graphics.drawable.AnimationUtilsCompat:
+    private static android.view.animation.Interpolator createInterpolatorFromXml(android.content.Context,android.content.res.Resources,android.content.res.Resources$Theme,org.xmlpull.v1.XmlPullParser)
+androidx.viewpager2.widget.ViewPager2$SavedState:
+    void <init>(android.os.Parcel)
+androidx.window.layout.WindowMetricsCalculatorCompat:
+    public final android.graphics.Rect computeWindowBoundsIceCreamSandwich$window_release(android.app.Activity)
 com.google.android.material.appbar.AppBarLayout$BaseBehavior$BaseDragCallback
 com.google.android.material.appbar.AppBarLayout$BaseBehavior:
     private com.google.android.material.appbar.AppBarLayout$BaseBehavior$BaseDragCallback onDragCallback
 com.google.android.material.bottomsheet.BottomSheetBehavior$BottomSheetCallback
+com.google.android.material.button.MaterialButtonHelper:
+    void updateMaskBounds(int,int)
+com.google.android.material.datepicker.UtcDates:
+    private static java.text.DateFormat getFormat(int,java.util.Locale)
+    static java.text.DateFormat getFullFormat(java.util.Locale)
+com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton$3:
+    final synthetic com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton$OnChangedCallback val$callback
+com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton$ExtendedFloatingActionButtonBehavior:
+    private com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton$OnChangedCallback internalAutoHideCallback
+    private com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton$OnChangedCallback internalAutoShrinkCallback
 com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton$OnChangedCallback:
     public abstract void onExtended(com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton)
     public abstract void onHidden(com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton)
     public abstract void onShown(com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton)
     public abstract void onShrunken(com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton)
+com.google.android.material.floatingactionbutton.FloatingActionButtonImpl:
+    com.google.android.material.shape.MaterialShapeDrawable createShapeDrawable()
+com.google.android.material.internal.StateListAnimator:
+    private void cancel()
+    public void jumpToCurrentState()
+    public void setState(int[])
+    private void start(com.google.android.material.internal.StateListAnimator$Tuple)
+com.google.android.material.internal.StaticLayoutBuilderCompat$StaticLayoutBuilderCompatException:
+    void <init>(java.lang.Throwable)
+com.google.android.material.internal.StaticLayoutBuilderCompat:
+    private static java.lang.reflect.Constructor constructor
+    private static boolean initialized
+    private static java.lang.Object textDirection
+    private void createConstructorWithReflection()
+com.google.android.material.shape.MaterialShapeDrawable:
+    public void setShadowCompatRotation(int)
 com.google.android.material.snackbar.SnackbarManager$Callback:
     public abstract void dismiss(int)
 com.google.android.material.snackbar.SnackbarManager$SnackbarRecord:
@@ -11715,7 +11934,11 @@ com.google.android.material.snackbar.SnackbarManager$SnackbarRecord:
     boolean paused
     abstract boolean isSnackbar(com.google.android.material.snackbar.SnackbarManager$Callback)
 com.google.android.material.snackbar.SnackbarManager:
+    private com.google.android.material.snackbar.SnackbarManager$SnackbarRecord currentSnackbar
+    private com.google.android.material.snackbar.SnackbarManager$SnackbarRecord nextSnackbar
     private void scheduleTimeoutLocked(com.google.android.material.snackbar.SnackbarManager$SnackbarRecord)
+com.google.android.material.textfield.TextInputEditText:
+    private java.lang.String getAccessibilityNodeInfoText(com.google.android.material.textfield.TextInputLayout)
 kotlin._Assertions
 kotlin.reflect.KProperty0:
     public abstract java.lang.Object get()
@@ -11732,3 +11955,5 @@ kotlinx.coroutines.AbstractTimeSource:
     public abstract void unpark(java.lang.Thread)
     public abstract void unregisterTimeLoopThread()
     public abstract java.lang.Runnable wrapTask(java.lang.Runnable)
+kotlinx.coroutines.AbstractTimeSourceKt:
+    private static kotlinx.coroutines.AbstractTimeSource timeSource
